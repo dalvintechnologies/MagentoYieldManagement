@@ -3,6 +3,7 @@
   "description": "Magento 2 Custom Pricing Management for Web To Print Industry",
   "minimum-stability": "stable",
   "prefer-stable" : true,
+  "version": "0.0.1",
   "type": "magento2-module",
   "license": "proprietary",
   "authors": [
@@ -12,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "~7.0.0"
+    "php": "~7.3.0||~7.4.0"
   },
   "autoload": {
     "files": [
