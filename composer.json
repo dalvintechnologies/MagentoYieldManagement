@@ -1,7 +1,7 @@
 {
   "name": "wobz-tech/magento-yield-management",
   "description": "Magento 2 Custom Pricing Management for Web To Print Industry",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable" : true,
   "type": "magento2-module",
   "license": "proprietary",
