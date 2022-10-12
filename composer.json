@@ -1,0 +1,21 @@
+{
+  "name": "wobz_tech/magento_yield_management",
+  "description": "Magento 2 Custom Pricing Management for Web To Print Industry",
+  "minimum-stability": "dev",
+  "type": "magento2-module",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "quentindessartine",
+      "email": "quentin.d@dalvin.fr"
+    }
+  ],
+  "require": {
+    "php": "~7.0.0"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
